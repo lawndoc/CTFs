@@ -1,6 +1,6 @@
 # diver
 
-*Author: C.J. May @lawndoc*
+*Author: C.J. May [@lawndoc](https://github.com/lawndoc)*
 
 The flag for this challenge is in the format below:
 
