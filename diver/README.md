@@ -4,7 +4,7 @@
 
 The flag for this challenge is in the format below:
 
-`SecDSM{<flag text>}`
+`SecDSM{<three_word_text>}`
 
 You must find the entire flag to complete this challenge.
 
